@@ -4,14 +4,14 @@ import './MainPage.css';
 const MainPage = () => {
   const players = [
     { name: 'Emilia', photo: '/images/castphotos/emilia.jpg' },
-    { name: 'Megan', photo: '/images/castphotos/megan.jpg' },
     { name: 'Ryan', photo: '/images/castphotos/ryan.jpg' },
+    { name: 'Megan', photo: '/images/castphotos/megan.jpg' },
     { name: 'Andrew', photo: '/images/castphotos/andrew.jpg' },
     { name: 'Nick', photo: '/images/castphotos/nick.jpg' },
     { name: 'Jonah', photo: '/images/castphotos/jonah.jpg' },
     { name: 'Drew', photo: '/images/castphotos/drew.jpg' },
     { name: 'Stephanie', photo: '/images/castphotos/steph.jpg' },
-    { name: 'Nicole', photo: '/images/castphotos/caroline.jpg' },
+    { name: 'Nicole', photo: '/images/castphotos/nicole.jpg' },
     { name: 'Sarah', photo: '/images/castphotos/sarah.jpg' },
     { name: 'Yasmine', photo: '/images/castphotos/yasmine.jpg' },
     { name: 'Michael', photo: '/images/castphotos/michael.jpg' },
