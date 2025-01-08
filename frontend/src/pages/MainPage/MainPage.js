@@ -13,7 +13,7 @@ const MainPage = () => {
     { name: 'Stephanie', photo: '/images/castphotos/steph.jpg' },
     { name: 'Nicole', photo: '/images/castphotos/nicole.jpg' },
     { name: 'Sarah', photo: '/images/castphotos/sarah.jpg' },
-    { name: 'Yasmine', photo: '/images/castphotos/yasmine.jpg' },
+    { name: 'Yasmin', photo: '/images/castphotos/yasmine.jpg' },
     { name: 'Michael', photo: '/images/castphotos/michael.jpg' },
     { name: 'Kamille', photo: '/images/castphotos/kamille.jpg' },
     { name: 'Anna', photo: '/images/castphotos/anna.jpg' },
